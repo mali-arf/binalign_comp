@@ -7,4 +7,3 @@ This repository contains the code for three models:
 1) BinAlign, 
 2) o-glassesX, and
 3) ImprovedBinAlign
-
